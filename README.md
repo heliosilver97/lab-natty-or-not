@@ -20,23 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Pedi pro ChatGPT se descrever
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+AI/ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Simplesmente, a gente pede pra AI se descrever
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O ChatGPT se descreveu: "Claro, aqui vai uma descrição simples de mim:
+
+Eu sou o ChatGPT, uma inteligência artificial desenvolvida pela OpenAI, baseada na arquitetura GPT-4. Fui treinado para entender e gerar texto em linguagem natural, respondendo a perguntas, ajudando com tarefas e oferecendo informações em uma variedade de tópicos. Meu objetivo é ser útil e fornecer respostas precisas e úteis. Como posso te ajudar hoje?"
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Comente sobre o desafio de criar algo 'natty' com IA
 
 ### Exemplos e Insigths
 
